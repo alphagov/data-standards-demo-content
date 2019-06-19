@@ -31,12 +31,13 @@ Both the following functions should show paths to your files
 
 
 This should hold a copy of the text created with the data input form above.
+
 def gettxt():
     df = pd.read_csv('/Users/xxx/Projects/ExcelExport/metadata2', header=None)
     return df
 
 
-# This will get the file, initial we have a default file, later we will allow them to input
+This will get the file, initial we have a default file, later we will allow them to input
 def getfile():
     #wb = opxl.load_workbook('/Users/xxx/Downloads/Excel Import Text.xlsx')
     wb = opxl.load_workbook('/Users/xxx/Projects/ExcelExport/Excel Import Text.xlsx')
