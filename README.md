@@ -48,6 +48,6 @@ Sample excel files will be published shortly.
 
 More detail to follow.
 
-The intention is to migrate all content to FLASK so everything is working end to end.
+The intention is to migrate all content to FLASK so everything works end to end.
 
 Gareth H 18/06/2019
