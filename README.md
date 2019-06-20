@@ -8,6 +8,8 @@ The HTML can be run, as is, by copying it to a directory and launching in a brow
 
 Please ensure the paths work correctly.
 
+Please be aware that the code expects a new line for each data description language term used.
+
 This is an initial version signficant work still required:
 
 * [ ] Integration with defining the format of the columns. This shows the potential currently.
@@ -50,4 +52,10 @@ More detail to follow.
 
 The intention is to migrate all content to FLASK so everything works end to end.
 
+The page with the contents is hard-coded currently to have the name 'toc':
+
+```python
+wst = wb['toc']
+```
+If you put create a sheet with this name and then put your description language on this sheet it should function.
 Gareth H 18/06/2019
