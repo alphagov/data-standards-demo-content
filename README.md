@@ -42,11 +42,21 @@ def getfile():
     return wb
 ```
 
+A sample metadata file, metadata2, is in the SampeFiles folder.
+
+This reads the excel in that folder called: Excel Import Text.xlsx
+
+It should be noted that the data sheet is currently hard coded. This will change shortly.
+
+```python
+ws = wb['data']
+```
+
 ## `excelImportoriginal.py`
 
 This has a path to an excel with the front page holding the content.
 
-Sample excel files will be published shortly.
+The sample excel file for this content is: ExcelImport2.xlsx in the SampleFiles folder.
 
 More detail to follow.
 

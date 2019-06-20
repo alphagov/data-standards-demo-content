@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2a1a4ee-e2d0-498b-b7f9-8961bb79e306" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML_Content/ConfigDDFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Content/ConfigDDFile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,18 +15,18 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Code/example.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="529">
-                <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+              <first_editor relative-caret-position="361">
+                <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-end-line="72" />
+            <state relative-caret-position="1050">
+              <caret line="71" column="9" selection-start-line="71" selection-end-line="72" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Code/externalfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="161">
+              <caret line="68" column="7" selection-start-line="68" selection-end-line="69" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML_Content/ConfigDDFile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5175">
-              <caret line="345" column="90" selection-start-line="345" selection-start-column="90" selection-end-line="345" selection-end-column="90" />
+            <state relative-caret-position="224">
+              <caret line="326" column="12" selection-start-line="326" selection-start-column="12" selection-end-line="326" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -91,14 +90,13 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +118,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,17 +151,18 @@
       <updated>1560870600293</updated>
       <workItem from="1560870602793" duration="1315000" />
       <workItem from="1561013605535" duration="510000" />
+      <workItem from="1561020870142" duration="1559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1841000" />
+    <option name="totallyTimeSpent" value="3710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="831" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,17 +200,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Code/example.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Code/externalfile.py">
+    <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="1050">
+          <caret line="71" column="9" selection-start-line="71" selection-end-line="72" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -218,28 +218,28 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
+    <entry file="file://$PROJECT_DIR$/HTML_Content/ConfigDDFile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-end-line="72" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="224">
+          <caret line="326" column="12" selection-start-line="326" selection-start-column="12" selection-end-line="326" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML_Content/ConfigDDFile.html">
+    <entry file="file://$PROJECT_DIR$/Python Code/externalfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5175">
-          <caret line="345" column="90" selection-start-line="345" selection-start-column="90" selection-end-line="345" selection-end-column="90" />
+        <state relative-caret-position="161">
+          <caret line="68" column="7" selection-start-line="68" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="529">
-            <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+          <first_editor relative-caret-position="361">
+            <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           </first_editor>
           <second_editor />
         </state>

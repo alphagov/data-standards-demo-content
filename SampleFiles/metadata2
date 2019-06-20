@@ -1,0 +1,9 @@
+creator:Arnau
+contributor:Gareth
+title:GDS Sample
+created:24th May 2019
+identifier:NPL0001_GDS_SDA_XLS
+description:This is a demo document
+declare-datasheet:data
+declare-header:a3:d3
+declare-data:a4:d8
