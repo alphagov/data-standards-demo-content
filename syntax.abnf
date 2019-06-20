@@ -2,9 +2,10 @@ rules   = rule *(eor rule)
 rule    = tag ":" [WSP] values
 tag     = ALPHA *(ALPHA / DIGIT / "-")
 values  = value [WSP] *("," [WSP] value)
-value   = text / number / boolean / date
+value   = token / text / number / boolean / date
 boolean = "true" / "false"
 number  = 1*(DIGIT) *("." DIGIT) ; needs refinement. E.g. 100,000.023
+token   = ALPHA *(ALPHA / DIGIT / "-" / "_")
 text    = DQUOTE *(UTF8) DQUOTE
 date    = 4(DIGIT) "-" 2(DIGIT) "-" 2(DIGIT)
 
