@@ -50,4 +50,11 @@ More detail to follow.
 
 The intention is to migrate all content to FLASK so everything is working end to end.
 
+The page with the contents is hard-coded currently to have the name 'toc':
+
+```python
+wst = wb['toc']
+```
+If you create a sheet with this name and then put your description language on this sheet it should function.
+
 Gareth H 18/06/2019
