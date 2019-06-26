@@ -25,6 +25,8 @@ This requires pandas and openpyxl. Please note the current intention is to move 
 
 ## `externalfile.py`
 
+Developed in Python 3.7.
+
 Both the following functions should show paths to your files
 
 This should hold a copy of the text created with the data input form above.
