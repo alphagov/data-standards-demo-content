@@ -1,6 +1,6 @@
-# Try the data description language
+# Cross-government data description language demo
 
-The UK Government Digital Service (GDS) has looked at international standards and some use cases to define an initial data description language. This language makes describing data across government simpler and more consistent.
+The UK Government Digital Service (GDS) has defined an initial data description language based on international standards and use cases. This language aims to make describing data across government simpler and more consistent.
 
 You can use the [`data-standards-demo-content` GitHub repository](https://github.com/alphagov/data-standards-demo-content) to try this data description language. This repository contains code that allows you to:
 
@@ -11,7 +11,7 @@ This currently only works with Excel data files.
 
 This is a work in progress, and will be regularly iterated and updated.
 
-## Prerequisites
+## Before you start
 
 You must have installed the following software on your local machine:
 
@@ -70,10 +70,10 @@ You can then either:
 
 If an Excel data file has associated data description information, you can use that data description information to automatically read data from that data file.
 
-The way you read the data from the Excel data file depends on where the associated data description information is. The most common use cases are that the data description information is either:
+The way you read the data from the Excel data file depends on where the associated data description information is. The data description information is usually held in:
 
-- in a separate data description file
-- in one of the Excel data file worksheets
+- a separate data description file
+- one of the Excel data file worksheets
 
 You cannot currently specify which data you want. You must read all data from an Excel data file.
 
@@ -204,3 +204,18 @@ For more information on the data description language field names and definition
 
 - [Dublin Core Metadata Initiative terms](http://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 - [Schemas for Tabular Data Challenge](https://github.com/alphagov/open-standards/issues/40#issuecomment-504323302)
+
+## Contributing
+
+We want to get as much feedback as possible from data practitioners across government. You can:
+
+- comment on the [data standards proposal](https://github.com/alphagov/open-standards/issues/40#issuecomment-504323302)
+- raise an issue against the code in this repository
+
+We would also like you to join us in community events and workshops to discuss options and ideas. Please contact [data-standards@digital.cabinet-office.gov.uk](mailto:data-standards@digital.cabinet-office.gov.uk) if you’re interested in taking part.
+
+## Licence
+
+Unless stated otherwise, the codebase is released under the [MIT License](https://github.com/alphagov/paas-tech-docs/blob/master/LICENSE). This covers both the codebase and any sample code in the documentation. 
+
+The documentation is [&copy; Crown copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/) and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
