@@ -1,6 +1,6 @@
-# Try the GDS data description language
+# Try the data description language
 
-The UK Government Digital Service (GDS) has defined a data description language. This language makes describing data across government simpler and more consistent.
+The UK Government Digital Service (GDS) has looked at international standards and some use cases to define an initial data description language. This language makes describing data across government simpler and more consistent.
 
 You can use the [`data-standards-demo-content` GitHub repository](https://github.com/alphagov/data-standards-demo-content) to try this data description language. This repository contains code that allows you to:
 
