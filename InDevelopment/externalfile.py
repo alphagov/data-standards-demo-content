@@ -24,11 +24,17 @@ def getdataheader(df):
     myhead = myhead[20:]
     return myhead
 
+def getdatasheet(df):
+    mysheet = df[df.iloc[:, 0].str.contains('datasheet:')]
+    mysheet = mysheet.to_string().strip()
+    mysheet = mysheet[23:]
+    return mysheet
+
 def getdata(df):
-    myhead = df[df.iloc[:, 0].str.contains('ata:')]
-    myhead = myhead.to_string().strip()
-    myhead = myhead[18:]
-    return myhead
+    mydata = df[df.iloc[:, 0].str.contains('ata:')]
+    mydata = mydata.to_string().strip()
+    mydata = mydata[18:]
+    return mydata
 
 def returnheader(ws, headerrange):
     for item in headerrange:
@@ -66,7 +72,9 @@ df = gettxt()
 print (df)
 wb = getfile()
 
-ws = wb['data']
+wsheet = getdatasheet(df)
+print (wsheet)
+ws = wb[wsheet]
 
 headerrange = getdataheader(df)
 headerrange = str(ws[str(headerrange)]).split(",")
@@ -78,23 +86,22 @@ print('The column headers are:')
 print(colprint)
 
 
-#
-#
+
 datarange = getdata(df)
 datarange = str(ws[str(datarange)]).split(",")
 
 datalist = returndata(ws, datarange)
 
-# #This chunks up the data so that it prints more elegantly
+#This chunks up the data so that it prints more elegantly
 finalListy = list(chunks(datalist, len(colhead)))
 
 i = 0
 while i < len(finalListy):
-    print(finalListy[i])
-    i += 1
+     print(finalListy[i])
+     i += 1
 
 df = pd.DataFrame(finalListy, columns=colprint)
-
+#
 df.to_csv('example.csv', index=False)
 
 
