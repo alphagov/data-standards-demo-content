@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2a1a4ee-e2d0-498b-b7f9-8961bb79e306" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/InDevelopment/HTML_Content/ViewCopyContent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InDevelopment/externalfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/InDevelopment/externalfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Code/externalfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Code/externalfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML_Content/stylesheets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Content/stylesheets/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/govuk-frontend-2.12.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/govuk-frontend-2.12.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/custom.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,99 +17,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/data_standards_demo_content$externalfile.coverage" NAME="externalfile Coverage Results" MODIFIED="1562324881639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Code" />
-    <SUITE FILE_PATH="coverage/data_standards_demo_content$externalfile__1_.coverage" NAME="externalfile (1) Coverage Results" MODIFIED="1562335171237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InDevelopment" />
+    <SUITE FILE_PATH="coverage/data_standards_demo_content$externalfile.coverage" NAME="externalfile Coverage Results" MODIFIED="1563447407257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Code" />
+    <SUITE FILE_PATH="coverage/data_standards_demo_content$externalfile__1_.coverage" NAME="externalfile (1) Coverage Results" MODIFIED="1562595363028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InDevelopment" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Code/example.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InDevelopment/example.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="68" lean-forward="true" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+            <state relative-caret-position="727">
+              <caret line="461" column="18" selection-start-line="461" selection-start-column="18" selection-end-line="461" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InDevelopment/externalfile.py">
+        <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/ViewCopyContent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="106" lean-forward="true" selection-end-line="111" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="746">
+              <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="55" selection-start-line="55" selection-end-line="55" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python Code/externalfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML_Content/ConfigDDFile.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
+        <entry file="file://$PROJECT_DIR$/HTML_Content/stylesheets/custom.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="145" selection-start-line="145" selection-end-line="145" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/govuk-frontend-2.12.0.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="3287" column="18" selection-start-line="3287" selection-start-column="4" selection-end-line="3287" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open</find>
+      <find>display: none;</find>
+      <find>hidden</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,30 +94,76 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/HTML_Content/ConfigDDFile.html" />
         <option value="$PROJECT_DIR$/Python Code/excelImportoriginal.py" />
-        <option value="$PROJECT_DIR$/Python Code/example.csv" />
         <option value="$PROJECT_DIR$/InDevelopment/externalfile.py" />
         <option value="$PROJECT_DIR$/Python Code/externalfile.py" />
+        <option value="$PROJECT_DIR$/Python Code/example.csv" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/modernizer.js" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/modernizr.js" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System_files/govuk-frontend-18ad095a4c6c0d308c7672cf1e8d04d8.js" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System.html" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/govuk-frontend-2.12.0.min.js" />
+        <option value="$PROJECT_DIR$/HTML_Content/stylesheets/custom.css" />
+        <option value="$PROJECT_DIR$/HTML_Content/stylesheets/test.css" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/test.html" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/custom.css" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/custom.js" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/ViewCopyContent.html" />
+        <option value="$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="23" />
-    <option name="width" value="1640" />
-    <option name="height" value="828" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="660" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML_Content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="InDevelopment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="InDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML_Content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="InDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML_Content" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="InDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML_Content" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-standards-demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="InDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML_Content" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-standards-demo-content" type="b2602c69:ProjectViewProjectNode" />
@@ -160,17 +183,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System_files/govuk-frontend-18ad095a4c6c0d308c7672cf1e8d04d8.js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/InDevelopment/HTML_Content" />
       <recent name="$PROJECT_DIR$/InDevelopment" />
     </key>
   </component>
@@ -186,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.externalfile (1)">
+  <component name="RunManager" selected="Python.externalfile">
     <configuration name="externalfile (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data-standards-demo-content" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,8 +262,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.externalfile (1)" />
         <item itemvalue="Python.externalfile" />
+        <item itemvalue="Python.externalfile (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -251,23 +280,33 @@
       <workItem from="1560870602793" duration="1315000" />
       <workItem from="1561013605535" duration="510000" />
       <workItem from="1561020870142" duration="1559000" />
-      <workItem from="1562322941934" duration="5626000" />
+      <workItem from="1562322941934" duration="6371000" />
+      <workItem from="1562570361396" duration="285000" />
+      <workItem from="1562589815938" duration="1267000" />
+      <workItem from="1562858209233" duration="400000" />
+      <workItem from="1563261622083" duration="104000" />
+      <workItem from="1563444900832" duration="429000" />
+      <workItem from="1563779695350" duration="177000" />
+      <workItem from="1563867684947" duration="138000" />
+      <workItem from="1563954305257" duration="265000" />
+      <workItem from="1563958174215" duration="49000" />
+      <workItem from="1565762746382" duration="14327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9336000" />
+    <option name="totallyTimeSpent" value="27522000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1640" height="828" extended-state="0" />
+    <frame x="0" y="0" width="936" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20901126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34451902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3015428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9628253" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,33 +338,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="55" selection-start-line="55" selection-end-line="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML_Content/ConfigDDFile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -335,36 +351,160 @@
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="68" lean-forward="true" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InDevelopment/example.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InDevelopment/externalfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="106" lean-forward="true" selection-end-line="111" />
+        <state relative-caret-position="975">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="825">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Code/excelImportoriginal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python Code/externalfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="420">
           <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/modernizer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System_files/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System_files/govuk-frontend-18ad095a4c6c0d308c7672cf1e8d04d8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/Accordion – Example – GOV.UK Design System.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Content/javascripts/govuk-frontend-2.12.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/govuk-frontend-2.12.0.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="3287" column="18" selection-start-line="3287" selection-start-column="4" selection-end-line="3287" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Content/stylesheets/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/stylesheets/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="108" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/example.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Content/stylesheets/govuk-frontend-2.12.0.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/govuk-frontend-2.12.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="646" column="52" selection-start-line="646" selection-start-column="46" selection-end-line="646" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/javascripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Content/stylesheets/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/ViewCopyContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InDevelopment/HTML_Content/ConfigDDFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="461" column="18" selection-start-line="461" selection-start-column="18" selection-end-line="461" selection-end-column="18" />
         </state>
       </provider>
     </entry>

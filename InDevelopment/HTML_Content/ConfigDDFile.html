@@ -24,8 +24,6 @@
       <link rel="stylesheet" href="stylesheets/govuk-frontend-ie8-2.12.0.min.css">
     <![endif]-->
   </head>
-
-    <script src="javascripts/govuk-frontend-2.12.0.min.js"></script>
     <script src="javascripts/govuk-frontend-2.12.0.min.js"></script>
 <script src="javascripts/jquery-3.4.1.min.js"></script>
 <script src="javascripts/custom.js"></script>
@@ -73,18 +71,19 @@
             </legend>
     </main>
 
+<div id="show1" class="unhidden">
 
  <div class="govuk-form-group">
                 <label class="govuk-label" >
                     Creator: <span class="govuk-visually-hidden" >line 1 of 2</span>
                 </label>
-                <input class="govuk-input" id="crein" name="crein" type="text">
+                <input class="govuk-input" id="crein" name="crein" type="text" placeholder="Indira Singh, Sue Chan, Gregory Pie. Can be an email">
             </div>
 
 
         <div class="govuk-form-group">
             <label class="govuk-label" >
-                contributor: <span class="govuk-visually-hidden" >line 1 of 2</span>
+                Contributor: <span class="govuk-visually-hidden" >line 1 of 2</span>
             </label>
             <input class="govuk-input" id="conin" name="conin" type="text">
         </div>
@@ -92,21 +91,21 @@
 
         <div class="govuk-form-group">
             <label class="govuk-label" >
-                title: <span class="govuk-visually-hidden" >line 1 of 2</span>
+                Title: <span class="govuk-visually-hidden" >line 1 of 2</span>
             </label>
             <input class="govuk-input" id="tiin" name="tiin" type="text">
         </div>
 
         <div class="govuk-form-group">
             <label class="govuk-label" >
-                created: <span class="govuk-visually-hidden" >line 1 of 2</span>
+                Created: <span class="govuk-visually-hidden" >line 1 of 2</span>
             </label>
             <input class="govuk-input" id="createdin" name="createdin" type="text">
         </div>
 
         <div class="govuk-form-group">
             <label class="govuk-label" >
-                identifier: <span class="govuk-visually-hidden" >line 1 of 2</span>
+                Identifier: <span class="govuk-visually-hidden" >line 1 of 2</span>
             </label>
             <input class="govuk-input" id="ident" name="ident" type="text">
         </div>
@@ -117,6 +116,13 @@
             </label>
             <input class="govuk-input" id="desc" name="desc" type="desc">
         </div>
+
+
+      <br>
+        <br>
+
+<button class="collapsible">Data & Columns</button>
+<div class="content">
         <p>
             <input type="file" id="fileUpload">
         </p>
@@ -173,6 +179,7 @@
     </fieldset>
 
 
+
         <form>
             <label class="govuk-label" > Set the properties of your columns:
                 <span class="govuk-visually-hidden" >line 1 of 2</span>
@@ -214,10 +221,117 @@
 
 
 </form>
-        <br>
-        <br>
+
+    <br>
+    <br>
+    <br>
 
 
+</div>
+      <br>
+      <br>
+
+
+<button class="collapsible">Other Tags</button>
+
+
+<div class="content">
+
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+      <br>
+      <br>
+<p></p>
+                Valid: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="valid" name="valid" type="valid">
+        </div>
+
+<div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                Replaces: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="replaces" name="replaces" type="replaces">
+        </div>
+
+
+
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                license: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="license" name="license" type="license">
+       </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                fileformat-puid: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="ffpuid" name="ffpuid" type="ffpuid">
+        </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                fileformat-creating-application: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="fca" name="fca" type="fca">
+        </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                conformsTo: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="conformsTo" name="conformsTo" type="conformsTo">
+        </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                doc-sensitivity: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="docsens" name="docsens" type="docsens">
+        </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                register-column: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="regcol" name="regcol" type="regcol">
+        </div>
+
+        <div class="govuk-form-group">
+            <label class="govuk-label" >
+                <br>
+                register-url: <span class="govuk-visually-hidden" ></span>
+            </label>
+            <input class="govuk-input" id="regurl" name="regurl" type="regurl">
+
+
+</div>
+
+</div>
+      <br>
+      <br>
+
+ <p>
+        <button type="submit" class="govuk-button" onclick="mydisplay();unhide('show2') ;unhide('show1')" >
+            Save
+        </button>
+
+        </p>
+
+
+  </div>
+
+      <div id="show2" class="hidden">
 
         <dl class="govuk-summary-list">
             <div class="govuk-summary-list__row">
@@ -228,9 +342,7 @@
 
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#crein">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
             <div class="govuk-summary-list__row">
@@ -241,9 +353,7 @@
 
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#conin">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
             <div class="govuk-summary-list__row">
@@ -253,9 +363,7 @@
                 <dd class="govuk-summary-list__value" id="tiout">
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#tiin">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
             <div class="govuk-summary-list__row">
@@ -266,9 +374,7 @@
                     <p class="govuk-body"></p>
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#createdin">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
             <div class="govuk-summary-list__row">
@@ -279,9 +385,7 @@
                     <p class="govuk-body"></p>
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#ident">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
 
@@ -293,9 +397,7 @@
                     <p class="govuk-body"></p>
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#desc">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
 
@@ -307,17 +409,117 @@
                     <p class="govuk-body"></p>
                 </dd>
                 <dd class="govuk-summary-list__actions">
-                    <a class="govuk-link" href="#">
-                        Change<span class="govuk-visually-hidden"> </span>
-                    </a>
+
                 </dd>
             </div>
 
+                <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     Valid:
+                </dt>
+                <dd class="govuk-summary-list__value" id="validdets">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
 
+                </dd>
+            </div>
+
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     Replaces:
+                </dt>
+                <dd class="govuk-summary-list__value" id="repladdets">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     License:
+                </dt>
+                <dd class="govuk-summary-list__value" id="licedets">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     Fileformat-puid:
+                </dt>
+                <dd class="govuk-summary-list__value" id="ffpu">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     fileformat-creating-application:
+                </dt>
+                <dd class="govuk-summary-list__value" id="ffca">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     conformsTo:
+                </dt>
+                <dd class="govuk-summary-list__value" id="confto">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+        <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     doc-sensitivity:
+                </dt>
+                <dd class="govuk-summary-list__value" id="docsens">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+         <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     register-column:
+                </dt>
+                <dd class="govuk-summary-list__value" id="regcol">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
+            <div class="govuk-summary-list__row">
+                <dt class="govuk-summary-list__key">
+                     register-url:
+                </dt>
+                <dd class="govuk-summary-list__value" id="regurl">
+                    <p class="govuk-body"></p>
+                </dd>
+                <dd class="govuk-summary-list__actions">
+
+                </dd>
+            </div>
         </dl>
-        <p>
-        <button type="submit" class="govuk-button" onclick="mydisplay()">
-            Generate Description File
+
+          <p>
+        <button type="submit" class="govuk-button" onclick="unhide('show2') ;unhide('show1')">
+            Change Details
         </button>
         </p>
         <p>
@@ -326,7 +528,7 @@
         </button>
         </p>
         <p>
-        <button type="submit" class="govuk-button" onclick="SaveDDF()">
+        <button type="submit" class="govuk-button" onclick="SaveDDF(); ">
             Save Data Description File (to do)
         </button>
         </p>
@@ -335,7 +537,25 @@
 
 </p>
 
+      </div>
 
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
  <!-- Copy and paste component HTML-->
 
 

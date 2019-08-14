@@ -58,3 +58,52 @@ table th, table td{
 #business {
   display:none;
 }
+
+
+.collapsible {
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    border-width: 2px;
+    color: inherit;
+    background: none;
+    text-align: left;
+    cursor: pointer;
+    -webkit-appearance: none;
+    width: 100%;
+    text-align: left;
+  background-color: #00703c;
+    color: white;
+  font-size: 19px;
+;
+
+  /*
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  */
+}
+
+.active, .collapsible:hover {
+    color: black;
+  font-weight: bold;
+  background-color: white;
+
+
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+
+.hidden { display: none; }
+.unhidden { display: block; }
