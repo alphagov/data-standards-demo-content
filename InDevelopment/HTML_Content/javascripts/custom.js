@@ -25,6 +25,19 @@ function mydisplay () {
   var filedets2 = 'declare-data:' + $('#decdata').val()
   var filedets3 = 'declare-data:' + $('#decsheet').val()
   $('#filedets').html(filedets3 + '\n' + filedets1 + '\n' + filedets2)
+
+    $('#validout').html($('#valid').val())
+    $('#replout').html($('#replaces').val())
+    $('#liceout').html($('#license').val())
+    $('#ffpuout').html($('#ffpuid').val())
+      $('#ffcout').html($('#fca').val())
+
+    $('#confout').html($('#conformsTo').val())
+    $('#docsout').html($('#docsens').val())
+    $('#regout').html($('#regcol').val())
+    $('#regurlout').html($('#regurl').val())
+
+
 }
 
 // This copies the data
@@ -39,7 +52,18 @@ function getMytext () {
     'description:' + $('#desc').val() + '\n' +
     'declare-datasheet:' + $('#decsheet').val() + '\n' +
     'declare-header:' + $('#decheader').val() + '\n' +
-    'declare-data:' + $('#decdata').val()
+    'declare-data:' + $('#decdata').val() + '\n' +
+    'valid:' + $('#valid').val() + '\n' +
+    'replaces:' + $('#replaces').val() + '\n' +
+    'license:' + $('#license').val() + '\n' +
+    'fileformat-puid:' + $('#ffpuid').val() + '\n' +
+    'fileformat-creating-application:' + $('#fca').val() + '\n' +
+    'conformsTo:' + $('#conformsTo').val() + '\n' +
+    'doc-sensitivity:' + $('#docsens').val() + '\n' +
+    'register-column:' + $('#regcol').val() + '\n' +
+    'register-url:' + $('#regurl').val()
+
+
   )
 return texty
 }
